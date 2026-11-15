@@ -1,0 +1,17 @@
+{
+  "name": "Padscape",
+  "manufacturer": "AudioFeel",
+  "version": "1.0.0",
+  "format": "vst2",
+  "kind": "instrument",
+  "uid": "AodE",
+  "numInputs": 0,
+  "numOutputs": 2,
+  "category": "Synth",
+  "file32": "VST/padscape-arm32.so",
+  "file64": "VST/padscape-arm64.so",
+  "description": "Padscape: 8-voice pad synth with layered detuned oscillators, moving filter, chorus and reverb.",
+  "author": "AudioFeel",
+  "url": "",
+  "license": "MIT"
+}

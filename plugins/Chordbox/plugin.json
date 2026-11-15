@@ -1,0 +1,17 @@
+{
+  "name": "Chordbox",
+  "manufacturer": "AudioFeel",
+  "version": "1.0.0",
+  "format": "vst2",
+  "kind": "instrument",
+  "uid": "AEvW",
+  "numInputs": 0,
+  "numOutputs": 2,
+  "category": "Synth",
+  "file32": "VST/chordbox-arm32.so",
+  "file64": "VST/chordbox-arm64.so",
+  "description": "Chordbox: a chord synth, one key plays a chord, manual or in a scale, with 28 presets.",
+  "author": "AudioFeel",
+  "url": "",
+  "license": "MIT"
+}

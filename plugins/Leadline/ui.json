@@ -1,0 +1,175 @@
+{
+ "kit": "cyan",
+ "pages": [
+  {
+   "name": "OSC",
+   "controls": [
+    {
+     "param": "Unison",
+     "widget": "knob"
+    },
+    {
+     "param": "Detune",
+     "widget": "knob"
+    },
+    {
+     "param": "Stereo",
+     "widget": "knob"
+    },
+    {
+     "param": "Sub",
+     "widget": "knob"
+    },
+    {
+     "param": "Wave",
+     "widget": "switch"
+    },
+    {
+     "param": "Pulse Width",
+     "widget": "knob"
+    },
+    {
+     "param": "PWM Depth",
+     "widget": "knob"
+    },
+    {
+     "param": "PWM Rate",
+     "widget": "knob"
+    },
+    {
+     "param": "Octave",
+     "widget": "knob"
+    },
+    {
+     "param": "Glide",
+     "widget": "knob"
+    },
+    {
+     "param": "Legato",
+     "widget": "switch"
+    },
+    {
+     "param": "Bend Range",
+     "widget": "knob"
+    }
+   ]
+  },
+  {
+   "name": "FILTER",
+   "controls": [
+    {
+     "param": "Cutoff",
+     "widget": "knob"
+    },
+    {
+     "param": "Resonance",
+     "widget": "knob"
+    },
+    {
+     "param": "Env Amount",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Drive",
+     "widget": "knob"
+    },
+    {
+     "param": "Key Track",
+     "widget": "knob"
+    },
+    "empty",
+    "empty",
+    "empty"
+   ]
+  },
+  {
+   "name": "VCF EG",
+   "controls": [
+    {
+     "param": "VCF Attack",
+     "widget": "fader"
+    },
+    {
+     "param": "VCF Decay",
+     "widget": "fader"
+    },
+    {
+     "param": "VCF Sustain",
+     "widget": "fader"
+    },
+    {
+     "param": "VCF Release",
+     "widget": "fader"
+    }
+   ]
+  },
+  {
+   "name": "VCA EG",
+   "controls": [
+    {
+     "param": "VCA Attack",
+     "widget": "fader"
+    },
+    {
+     "param": "VCA Decay",
+     "widget": "fader"
+    },
+    {
+     "param": "VCA Sustain",
+     "widget": "fader"
+    },
+    {
+     "param": "VCA Release",
+     "widget": "fader"
+    },
+    {
+     "param": "Velocity",
+     "widget": "knob"
+    },
+    {
+     "param": "Volume",
+     "widget": "fader"
+    },
+    "empty",
+    "empty"
+   ]
+  },
+  {
+   "name": "MOD",
+   "controls": [
+    {
+     "param": "Vib Rate",
+     "widget": "knob"
+    },
+    {
+     "param": "Vib Depth",
+     "widget": "knob"
+    },
+    {
+     "param": "Vib Delay",
+     "widget": "knob"
+    },
+    "empty"
+   ]
+  },
+  {
+   "name": "DELAY",
+   "controls": [
+    {
+     "param": "Delay Time",
+     "widget": "knob"
+    },
+    {
+     "param": "Delay Fback",
+     "widget": "knob"
+    },
+    {
+     "param": "Delay Mix",
+     "widget": "knob"
+    },
+    "empty"
+   ]
+  }
+ ]
+}

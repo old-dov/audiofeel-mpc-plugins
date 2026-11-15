@@ -1,0 +1,138 @@
+{
+ "kit": "violet",
+ "pages": [
+  {
+   "name": "OSC",
+   "controls": [
+    {
+     "param": "Wave A",
+     "widget": "switch"
+    },
+    {
+     "param": "Wave B",
+     "widget": "switch"
+    },
+    {
+     "param": "Octave B",
+     "widget": "knob"
+    },
+    {
+     "param": "Blend",
+     "widget": "knob"
+    },
+    {
+     "param": "Detune",
+     "widget": "knob"
+    },
+    {
+     "param": "Width",
+     "widget": "knob"
+    },
+    {
+     "param": "Bend Range",
+     "widget": "knob"
+    },
+    "empty"
+   ]
+  },
+  {
+   "name": "FILTER",
+   "controls": [
+    {
+     "param": "Cutoff",
+     "widget": "knob"
+    },
+    {
+     "param": "Resonance",
+     "widget": "knob"
+    },
+    {
+     "param": "Env Amount",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Key Track",
+     "widget": "knob"
+    },
+    {
+     "param": "LFO Rate",
+     "widget": "knob"
+    },
+    {
+     "param": "LFO Depth",
+     "widget": "knob"
+    },
+    "empty",
+    "empty"
+   ]
+  },
+  {
+   "name": "AMP",
+   "controls": [
+    {
+     "param": "Attack",
+     "widget": "fader"
+    },
+    {
+     "param": "Decay",
+     "widget": "fader"
+    },
+    {
+     "param": "Sustain",
+     "widget": "fader"
+    },
+    {
+     "param": "Release",
+     "widget": "fader"
+    },
+    {
+     "param": "Velocity",
+     "widget": "knob"
+    },
+    {
+     "param": "Volume",
+     "widget": "fader"
+    },
+    "empty",
+    "empty"
+   ]
+  },
+  {
+   "name": "CHORUS",
+   "controls": [
+    {
+     "param": "Chorus Mix",
+     "widget": "knob"
+    },
+    {
+     "param": "Chorus Depth",
+     "widget": "knob"
+    },
+    {
+     "param": "Chorus Rate",
+     "widget": "knob"
+    },
+    "empty"
+   ]
+  },
+  {
+   "name": "REVERB",
+   "controls": [
+    {
+     "param": "Reverb Mix",
+     "widget": "knob"
+    },
+    {
+     "param": "Reverb Size",
+     "widget": "knob"
+    },
+    {
+     "param": "Reverb Damp",
+     "widget": "knob"
+    },
+    "empty"
+   ]
+  }
+ ]
+}

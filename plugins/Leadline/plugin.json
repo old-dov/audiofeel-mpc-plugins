@@ -1,0 +1,17 @@
+{
+  "name": "Leadline",
+  "manufacturer": "AudioFeel",
+  "version": "1.0.0",
+  "format": "vst2",
+  "kind": "instrument",
+  "uid": "ABSW",
+  "numInputs": 0,
+  "numOutputs": 2,
+  "category": "Synth",
+  "file32": "VST/leadline-arm32.so",
+  "file64": "VST/leadline-arm64.so",
+  "description": "Leadline: monophonic lead synth with unison, sub, 24 dB filter, glide, vibrato and ping-pong delay.",
+  "author": "AudioFeel",
+  "url": "",
+  "license": "MIT"
+}

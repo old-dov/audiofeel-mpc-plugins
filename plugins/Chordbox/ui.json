@@ -1,0 +1,162 @@
+{
+ "kit": "violet",
+ "pages": [
+  {
+   "name": "CHORD",
+   "controls": [
+    {
+     "param": "Mode",
+     "widget": "switch"
+    },
+    {
+     "param": "Chord",
+     "widget": "knob"
+    },
+    {
+     "param": "Key",
+     "widget": "knob"
+    },
+    {
+     "param": "Scale",
+     "widget": "knob"
+    },
+    {
+     "param": "Extension",
+     "widget": "knob"
+    },
+    {
+     "param": "Inversion",
+     "widget": "knob"
+    },
+    {
+     "param": "Voicing",
+     "widget": "knob"
+    },
+    {
+     "param": "Strum",
+     "widget": "knob"
+    },
+    {
+     "param": "Octave",
+     "widget": "knob"
+    },
+    "empty",
+    "empty",
+    "empty"
+   ]
+  },
+  {
+   "name": "OSC",
+   "controls": [
+    {
+     "param": "Wave",
+     "widget": "switch"
+    },
+    {
+     "param": "Detune",
+     "widget": "knob"
+    },
+    {
+     "param": "Sub",
+     "widget": "knob"
+    },
+    {
+     "param": "Width",
+     "widget": "knob"
+    }
+   ]
+  },
+  {
+   "name": "FILTER",
+   "controls": [
+    {
+     "param": "Cutoff",
+     "widget": "knob"
+    },
+    {
+     "param": "Resonance",
+     "widget": "knob"
+    },
+    {
+     "param": "Env Amount",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Key Track",
+     "widget": "knob"
+    }
+   ]
+  },
+  {
+   "name": "AMP",
+   "controls": [
+    {
+     "param": "Attack",
+     "widget": "fader"
+    },
+    {
+     "param": "Decay",
+     "widget": "fader"
+    },
+    {
+     "param": "Sustain",
+     "widget": "fader"
+    },
+    {
+     "param": "Release",
+     "widget": "fader"
+    },
+    {
+     "param": "Velocity",
+     "widget": "knob"
+    },
+    {
+     "param": "Volume",
+     "widget": "fader"
+    },
+    {
+     "param": "Bend Range",
+     "widget": "knob"
+    },
+    "empty"
+   ]
+  },
+  {
+   "name": "CHORUS",
+   "controls": [
+    {
+     "param": "Chorus Mix",
+     "widget": "knob"
+    },
+    {
+     "param": "Chorus Depth",
+     "widget": "knob"
+    },
+    {
+     "param": "Chorus Rate",
+     "widget": "knob"
+    },
+    "empty"
+   ]
+  },
+  {
+   "name": "DELAY",
+   "controls": [
+    {
+     "param": "Delay Time",
+     "widget": "knob"
+    },
+    {
+     "param": "Delay Fback",
+     "widget": "knob"
+    },
+    {
+     "param": "Delay Mix",
+     "widget": "knob"
+    },
+    "empty"
+   ]
+  }
+ ]
+}

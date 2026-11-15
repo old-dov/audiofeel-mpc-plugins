@@ -1,6 +1,6 @@
 # AudioFeel MPC plugins
 
-Four free instruments for Akai MPC standalone (and as VST2 on Windows), built with inMusic's open-source
+Seven free instruments for Akai MPC standalone (and as VST2 on Windows), built with inMusic's open-source
 [MPC Plugin SDK](https://github.com/inmusic-software/mpc-plugin-builder-sdk). All sounds are synthesized, no samples.
 
 | Plugin | What it is |
@@ -9,6 +9,9 @@ Four free instruments for Akai MPC standalone (and as VST2 on Windows), built wi
 | **Arpeggio** | Arpeggiator with its own synth voice (a plugin cannot send MIDI to other tracks). 7 patterns, tempo-synced, gate, swing, latch. 18 presets. |
 | **Digiwave** | 8-voice digital-wave polysynth: two 12-wave oscillators per voice, 24 dB low-pass, break-point envelopes, LFO, stereo delay. 24 presets. Written from scratch, inspired by the architecture of 1980s digital-oscillator synths; it is not an emulation of any instrument and copies nothing from any ROM. |
 | **Drumbox** | 16-pad synthesized drum machine (MIDI notes 36-51), per-pad tune/decay/tone/level/pan, 9 kits. |
+| **Leadline** | Monophonic lead synth: unison stack of 1-7 oscillators, sub, 24 dB low-pass with drive, glide/legato, fading vibrato, PWM, ping-pong delay. 14 presets. |
+| **Padscape** | 8-voice pad synth: two detuned layers per voice, 24 dB low-pass moved by a slow LFO (different phase per voice), chorus, reverb. 14 presets. |
+| **Chordbox** | Chord synth: one key plays a chord, either a chosen chord type (24 types) or the chord of that degree in a key and scale, with inversions, voicings, strum, chorus and delay. 28 presets. |
 
 Each plugin has its own README with parameters and limits (`plugins/<Name>/README.md`).
 
@@ -26,7 +29,7 @@ You need Python 3 (the SDK downloads the Zig compiler on first use).
 ```
 git clone https://github.com/inmusic-software/mpc-plugin-builder-sdk
 git clone https://github.com/old-dov/audiofeel-mpc-plugins
-cp -r audiofeel-mpc-plugins/plugins/* mpc-plugin-builder-sdk/plugins/     # Windows: copy the four folders
+cp -r audiofeel-mpc-plugins/plugins/* mpc-plugin-builder-sdk/plugins/     # Windows: copy the folders
 cd mpc-plugin-builder-sdk
 
 python tools/build.py plugins/Bassline                    # MPC folder, in plugins/Bassline/build/
@@ -47,4 +50,4 @@ inMusic, Akai Professional or Korg. "VST" is a trademark of Steinberg Media Tech
 
 ---
 
-*FR : quatre instruments gratuits pour MPC standalone (et VST2 Windows), 100 % synthèse. Voir les sections ci-dessus ; installation = dossier `VST2 Plugins` + Enhancements activé.*
+*FR : sept instruments gratuits pour MPC standalone (et VST2 Windows), 100 % synthèse. Voir les sections ci-dessus ; installation = dossier `VST2 Plugins` + Enhancements activé.*
