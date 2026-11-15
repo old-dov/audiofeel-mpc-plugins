@@ -1,0 +1,131 @@
+{
+  "kit": "amber",
+  "pages": [
+    {
+      "name": "OSC",
+      "controls": [
+        {
+          "param": "Sub",
+          "widget": "knob"
+        },
+        {
+          "param": "Fat",
+          "widget": "knob"
+        },
+        {
+          "param": "Detune",
+          "widget": "knob"
+        },
+        {
+          "param": "Glide",
+          "widget": "knob"
+        },
+        {
+          "param": "Wave",
+          "widget": "switch"
+        },
+        {
+          "param": "Octave",
+          "widget": "knob"
+        },
+        {
+          "param": "Pulse Width",
+          "widget": "knob"
+        },
+        {
+          "param": "Legato",
+          "widget": "switch"
+        }
+      ]
+    },
+    {
+      "name": "FILTER",
+      "controls": [
+        {
+          "param": "Cutoff",
+          "widget": "knob"
+        },
+        {
+          "param": "Resonance",
+          "widget": "knob"
+        },
+        {
+          "param": "Env Amount",
+          "widget": "knob",
+          "polarity": "bipolar"
+        },
+        {
+          "param": "Drive",
+          "widget": "knob"
+        },
+        {
+          "param": "Filter Decay",
+          "widget": "knob"
+        },
+        {
+          "param": "Key Track",
+          "widget": "knob"
+        },
+        {
+          "param": "Accent",
+          "widget": "knob"
+        },
+        "empty"
+      ]
+    },
+    {
+      "name": "MOTION",
+      "controls": [
+        {
+          "param": "Motion",
+          "widget": "knob"
+        },
+        {
+          "param": "Motion Rate",
+          "widget": "knob"
+        },
+        {
+          "param": "Fat Mode",
+          "widget": "switch"
+        },
+        "empty",
+        {
+          "param": "Fat Wave",
+          "widget": "slider",
+          "overlay": "menu"
+        },
+        "empty",
+        "empty",
+        "empty"
+      ]
+    },
+    {
+      "name": "AMP",
+      "controls": [
+        {
+          "param": "Attack",
+          "widget": "fader"
+        },
+        {
+          "param": "Decay",
+          "widget": "fader"
+        },
+        {
+          "param": "Sustain",
+          "widget": "fader"
+        },
+        {
+          "param": "Release",
+          "widget": "fader"
+        },
+        {
+          "param": "Volume",
+          "widget": "fader"
+        },
+        "empty",
+        "empty",
+        "empty"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "kit": "cyan",
+  "pages": [
+    {
+      "name": "ARP",
+      "controls": [
+        { "param": "Rate",      "widget": "slider", "overlay": "menu" },
+        { "param": "Octaves",   "widget": "knob" },
+        { "param": "Gate",      "widget": "knob" },
+        { "param": "Swing",     "widget": "knob" },
+        { "param": "Pattern",   "widget": "slider", "overlay": "menu" },
+        { "param": "Transpose", "widget": "knob", "polarity": "bipolar" },
+        { "param": "Velocity",  "widget": "knob" },
+        { "param": "Latch",     "widget": "switch" }
+      ]
+    },
+    {
+      "name": "SOUND",
+      "controls": [
+        { "param": "Cutoff",       "widget": "knob" },
+        { "param": "Resonance",    "widget": "knob" },
+        { "param": "Env Amount",   "widget": "knob", "polarity": "bipolar" },
+        { "param": "Filter Decay", "widget": "knob" },
+        { "param": "Fat",          "widget": "knob" },
+        { "param": "Pulse Width",  "widget": "knob" },
+        { "param": "Drive",        "widget": "knob" },
+        { "param": "Wave",         "widget": "switch" }
+      ]
+    },
+    {
+      "name": "AMP",
+      "controls": [
+        { "param": "Attack",  "widget": "fader" },
+        { "param": "Decay",   "widget": "fader" },
+        { "param": "Sustain", "widget": "fader" },
+        { "param": "Release", "widget": "fader" },
+        { "param": "Volume",  "widget": "fader" },
+        { "param": "Spread",  "widget": "knob" },
+        "empty", "empty"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Drumbox",
+  "manufacturer": "AudioFeel",
+  "version": "1.0.0",
+  "format": "vst2",
+  "kind": "instrument",
+  "uid": "ABpV",
+  "numInputs": 0,
+  "numOutputs": 2,
+  "category": "Synth",
+  "file32": "VST/drumbox-arm32.so",
+  "file64": "VST/drumbox-arm64.so",
+  "description": "Drumbox: a 4-voice synth for the MPC. Describe your plugin here.",
+  "author": "AudioFeel",
+  "url": "",
+  "license": "MIT"
+}

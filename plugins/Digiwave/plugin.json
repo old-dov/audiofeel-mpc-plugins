@@ -1,0 +1,17 @@
+{
+  "name": "Digiwave",
+  "manufacturer": "AudioFeel",
+  "version": "1.0.0",
+  "format": "vst2",
+  "kind": "instrument",
+  "uid": "A2sK",
+  "numInputs": 0,
+  "numOutputs": 2,
+  "category": "Synth",
+  "file32": "VST/digiwave-arm32.so",
+  "file64": "VST/digiwave-arm64.so",
+  "description": "Digiwave: a 4-voice synth for the MPC. Describe your plugin here.",
+  "author": "AudioFeel",
+  "url": "",
+  "license": "MIT"
+}

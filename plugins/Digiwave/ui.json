@@ -1,0 +1,47 @@
+{
+  "kit": "violet",
+  "pages": [
+    { "name": "OSC", "controls": [
+      { "param": "Wave 1", "widget": "slider", "overlay": "menu" },
+      { "param": "Octave 1", "widget": "knob" },
+      { "param": "Osc2 Level", "widget": "knob" },
+      { "param": "Noise", "widget": "knob" },
+      { "param": "Wave 2", "widget": "slider", "overlay": "menu" },
+      { "param": "Octave 2", "widget": "knob" },
+      { "param": "Interval", "widget": "knob", "polarity": "bipolar" },
+      { "param": "Detune", "widget": "knob", "polarity": "bipolar" } ] },
+    { "name": "FILTER", "controls": [
+      { "param": "Cutoff", "widget": "knob" },
+      { "param": "Resonance", "widget": "knob" },
+      { "param": "EG Int", "widget": "knob", "polarity": "bipolar" },
+      { "param": "Key Track", "widget": "knob" } ] },
+    { "name": "VCF EG", "controls": [
+      { "param": "VCF Attack", "widget": "fader" },
+      { "param": "VCF Decay", "widget": "fader" },
+      { "param": "VCF Break", "widget": "fader" },
+      { "param": "VCF Slope", "widget": "fader" },
+      { "param": "VCF Sustain", "widget": "fader" },
+      { "param": "VCF Release", "widget": "fader" }, "empty", "empty" ] },
+    { "name": "VCA EG", "controls": [
+      { "param": "VCA Attack", "widget": "fader" },
+      { "param": "VCA Decay", "widget": "fader" },
+      { "param": "VCA Break", "widget": "fader" },
+      { "param": "VCA Slope", "widget": "fader" },
+      { "param": "VCA Sustain", "widget": "fader" },
+      { "param": "VCA Release", "widget": "fader" },
+      { "param": "Velocity", "widget": "knob" },
+      { "param": "Volume", "widget": "fader" } ] },
+    { "name": "MOD", "controls": [
+      { "param": "LFO Rate", "widget": "knob" },
+      { "param": "LFO Delay", "widget": "knob" },
+      { "param": "LFO Pitch", "widget": "knob" },
+      { "param": "LFO Filter", "widget": "knob" },
+      { "param": "LFO Wave", "widget": "slider", "overlay": "menu" },
+      { "param": "Bend Range", "widget": "knob" }, "empty", "empty" ] },
+    { "name": "DELAY", "controls": [
+      { "param": "Delay Time", "widget": "knob" },
+      { "param": "Delay Fback", "widget": "knob" },
+      { "param": "Delay Mod", "widget": "knob" },
+      { "param": "Delay Mix", "widget": "knob" } ] }
+  ]
+}

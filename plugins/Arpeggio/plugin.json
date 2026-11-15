@@ -1,0 +1,17 @@
+{
+  "name": "Arpeggio",
+  "manufacturer": "AudioFeel",
+  "version": "1.0.0",
+  "format": "vst2",
+  "kind": "instrument",
+  "uid": "A68Q",
+  "numInputs": 0,
+  "numOutputs": 2,
+  "category": "Synth",
+  "file32": "VST/arpeggio-arm32.so",
+  "file64": "VST/arpeggio-arm64.so",
+  "description": "Arpeggiator with its own synth voice: 7 patterns, tempo-synced rate, gate, swing, latch.",
+  "author": "AudioFeel",
+  "url": "",
+  "license": "MIT"
+}

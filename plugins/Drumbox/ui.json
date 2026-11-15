@@ -1,0 +1,400 @@
+{
+ "kit": "amber",
+ "pages": [
+  {
+   "name": "PADS 1",
+   "controls": [
+    {
+     "param": "Kick Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Kick Decay",
+     "widget": "knob"
+    },
+    {
+     "param": "Kick Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Kick Level",
+     "widget": "knob"
+    },
+    {
+     "param": "Rim Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Rim Decay",
+     "widget": "knob"
+    },
+    {
+     "param": "Rim Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Rim Level",
+     "widget": "knob"
+    },
+    {
+     "param": "Snare Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Snare Decay",
+     "widget": "knob"
+    },
+    {
+     "param": "Snare Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Snare Level",
+     "widget": "knob"
+    },
+    {
+     "param": "Clap Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Clap Decay",
+     "widget": "knob"
+    },
+    {
+     "param": "Clap Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Clap Level",
+     "widget": "knob"
+    }
+   ]
+  },
+  {
+   "name": "PADS 2",
+   "controls": [
+    {
+     "param": "Snr2 Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Snr2 Decay",
+     "widget": "knob"
+    },
+    {
+     "param": "Snr2 Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Snr2 Level",
+     "widget": "knob"
+    },
+    {
+     "param": "TomL Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "TomL Decay",
+     "widget": "knob"
+    },
+    {
+     "param": "TomL Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "TomL Level",
+     "widget": "knob"
+    },
+    {
+     "param": "CHat Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "CHat Decay",
+     "widget": "knob"
+    },
+    {
+     "param": "CHat Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "CHat Level",
+     "widget": "knob"
+    },
+    {
+     "param": "TomM Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "TomM Decay",
+     "widget": "knob"
+    },
+    {
+     "param": "TomM Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "TomM Level",
+     "widget": "knob"
+    }
+   ]
+  },
+  {
+   "name": "PADS 3",
+   "controls": [
+    {
+     "param": "Shkr Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Shkr Decay",
+     "widget": "knob"
+    },
+    {
+     "param": "Shkr Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Shkr Level",
+     "widget": "knob"
+    },
+    {
+     "param": "TomH Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "TomH Decay",
+     "widget": "knob"
+    },
+    {
+     "param": "TomH Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "TomH Level",
+     "widget": "knob"
+    },
+    {
+     "param": "OHat Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "OHat Decay",
+     "widget": "knob"
+    },
+    {
+     "param": "OHat Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "OHat Level",
+     "widget": "knob"
+    },
+    {
+     "param": "Cnga Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Cnga Decay",
+     "widget": "knob"
+    },
+    {
+     "param": "Cnga Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Cnga Level",
+     "widget": "knob"
+    }
+   ]
+  },
+  {
+   "name": "PADS 4",
+   "controls": [
+    {
+     "param": "Cowb Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Cowb Decay",
+     "widget": "knob"
+    },
+    {
+     "param": "Cowb Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Cowb Level",
+     "widget": "knob"
+    },
+    {
+     "param": "Crash Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Crash Decay",
+     "widget": "knob"
+    },
+    {
+     "param": "Crash Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Crash Level",
+     "widget": "knob"
+    },
+    {
+     "param": "Clav Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Clav Decay",
+     "widget": "knob"
+    },
+    {
+     "param": "Clav Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Clav Level",
+     "widget": "knob"
+    },
+    {
+     "param": "Ride Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Ride Decay",
+     "widget": "knob"
+    },
+    {
+     "param": "Ride Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Ride Level",
+     "widget": "knob"
+    }
+   ]
+  },
+  {
+   "name": "PAN",
+   "controls": [
+    {
+     "param": "Kick Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Rim Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Snare Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Clap Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Snr2 Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "TomL Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "CHat Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "TomM Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Shkr Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "TomH Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "OHat Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Cnga Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Cowb Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Crash Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Clav Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Ride Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    }
+   ]
+  },
+  {
+   "name": "MASTER",
+   "controls": [
+    {
+     "param": "Volume",
+     "widget": "fader"
+    },
+    {
+     "param": "Drive",
+     "widget": "knob"
+    },
+    {
+     "param": "Vel Sens",
+     "widget": "knob"
+    },
+    "empty"
+   ]
+  }
+ ]
+}

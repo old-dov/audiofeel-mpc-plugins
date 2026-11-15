@@ -1,0 +1,17 @@
+{
+  "name": "Bassline",
+  "manufacturer": "AudioFeel",
+  "version": "1.0.0",
+  "format": "vst2",
+  "kind": "instrument",
+  "uid": "APw6",
+  "numInputs": 0,
+  "numOutputs": 2,
+  "category": "Synth",
+  "file32": "VST/bassline-arm32.so",
+  "file64": "VST/bassline-arm64.so",
+  "description": "Monophonic bass synth: main + fat oscillators, sub, resonant low-pass with envelope, glide and legato.",
+  "author": "AudioFeel",
+  "url": "",
+  "license": "MIT"
+}
