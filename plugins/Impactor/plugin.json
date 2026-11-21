@@ -1,0 +1,17 @@
+{
+  "name": "Impactor",
+  "manufacturer": "AudioFeel",
+  "version": "1.0.0",
+  "format": "vst2",
+  "kind": "instrument",
+  "uid": "AgLk",
+  "numInputs": 0,
+  "numOutputs": 2,
+  "category": "Synth",
+  "file32": "VST/impactor-arm32.so",
+  "file64": "VST/impactor-arm64.so",
+  "description": "Impactor: cinematic impacts, risers and downers with velocity, variation and a pitched keyboard zone.",
+  "author": "AudioFeel",
+  "url": "",
+  "license": "MIT"
+}

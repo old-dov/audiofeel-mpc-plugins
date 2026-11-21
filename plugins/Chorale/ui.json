@@ -1,0 +1,107 @@
+{
+ "kit": "amber",
+ "pages": [
+  {
+   "name": "VOICE",
+   "controls": [
+    {
+     "param": "Singer",
+     "widget": "switch"
+    },
+    {
+     "param": "Vowel",
+     "widget": "knob"
+    },
+    {
+     "param": "Vowel Motion",
+     "widget": "knob"
+    },
+    {
+     "param": "Motion Rate",
+     "widget": "knob"
+    },
+    {
+     "param": "Choir Size",
+     "widget": "knob"
+    },
+    {
+     "param": "Breath",
+     "widget": "knob"
+    },
+    {
+     "param": "Brightness",
+     "widget": "knob"
+    },
+    {
+     "param": "Vibrato",
+     "widget": "knob"
+    }
+   ]
+  },
+  {
+   "name": "PLAY",
+   "controls": [
+    {
+     "param": "Dynamics",
+     "widget": "knob"
+    },
+    {
+     "param": "Mode",
+     "widget": "switch"
+    },
+    {
+     "param": "Glide",
+     "widget": "knob"
+    },
+    {
+     "param": "Onset",
+     "widget": "knob"
+    },
+    {
+     "param": "Humanize",
+     "widget": "knob"
+    },
+    {
+     "param": "Attack",
+     "widget": "knob"
+    },
+    {
+     "param": "Release",
+     "widget": "knob"
+    },
+    {
+     "param": "Bend Range",
+     "widget": "knob"
+    }
+   ]
+  },
+  {
+   "name": "FX",
+   "controls": [
+    {
+     "param": "Volume",
+     "widget": "fader"
+    },
+    {
+     "param": "Chorus Mix",
+     "widget": "knob"
+    },
+    "empty",
+    "empty",
+    {
+     "param": "Rev Mix",
+     "widget": "knob"
+    },
+    {
+     "param": "Rev Size",
+     "widget": "knob"
+    },
+    {
+     "param": "Rev Damp",
+     "widget": "knob"
+    },
+    "empty"
+   ]
+  }
+ ]
+}

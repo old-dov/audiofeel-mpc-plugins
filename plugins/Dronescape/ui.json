@@ -1,0 +1,102 @@
+{
+ "kit": "amber",
+ "pages": [
+  {
+   "name": "OSC",
+   "controls": [
+    {
+     "param": "Sub",
+     "widget": "knob"
+    },
+    {
+     "param": "Saw",
+     "widget": "knob"
+    },
+    {
+     "param": "Noise",
+     "widget": "knob"
+    },
+    {
+     "param": "Detune",
+     "widget": "knob"
+    },
+    {
+     "param": "Layer",
+     "widget": "slider",
+     "overlay": "menu"
+    },
+    {
+     "param": "Layer Level",
+     "widget": "knob"
+    },
+    {
+     "param": "Drift",
+     "widget": "knob"
+    },
+    {
+     "param": "Bend Range",
+     "widget": "knob"
+    }
+   ]
+  },
+  {
+   "name": "FILTER",
+   "controls": [
+    {
+     "param": "Cutoff",
+     "widget": "knob"
+    },
+    {
+     "param": "Resonance",
+     "widget": "knob"
+    },
+    {
+     "param": "Evolve Rate",
+     "widget": "knob"
+    },
+    {
+     "param": "Evolve Depth",
+     "widget": "knob"
+    },
+    {
+     "param": "Attack",
+     "widget": "knob"
+    },
+    {
+     "param": "Release",
+     "widget": "knob"
+    },
+    "empty",
+    "empty"
+   ]
+  },
+  {
+   "name": "FX",
+   "controls": [
+    {
+     "param": "Volume",
+     "widget": "fader"
+    },
+    {
+     "param": "Chorus Mix",
+     "widget": "knob"
+    },
+    "empty",
+    "empty",
+    {
+     "param": "Rev Mix",
+     "widget": "knob"
+    },
+    {
+     "param": "Rev Size",
+     "widget": "knob"
+    },
+    {
+     "param": "Rev Damp",
+     "widget": "knob"
+    },
+    "empty"
+   ]
+  }
+ ]
+}

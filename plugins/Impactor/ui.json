@@ -1,0 +1,433 @@
+{
+ "kit": "amber",
+ "pages": [
+  {
+   "name": "SOUNDS 1",
+   "controls": [
+    {
+     "param": "Boom Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Boom Length",
+     "widget": "knob"
+    },
+    {
+     "param": "Boom Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Boom Level",
+     "widget": "knob"
+    },
+    {
+     "param": "Hit Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Hit Length",
+     "widget": "knob"
+    },
+    {
+     "param": "Hit Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Hit Level",
+     "widget": "knob"
+    },
+    {
+     "param": "Slam Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Slam Length",
+     "widget": "knob"
+    },
+    {
+     "param": "Slam Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Slam Level",
+     "widget": "knob"
+    },
+    {
+     "param": "Metal Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Metal Length",
+     "widget": "knob"
+    },
+    {
+     "param": "Metal Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Metal Level",
+     "widget": "knob"
+    }
+   ]
+  },
+  {
+   "name": "SOUNDS 2",
+   "controls": [
+    {
+     "param": "Thud Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Thud Length",
+     "widget": "knob"
+    },
+    {
+     "param": "Thud Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Thud Level",
+     "widget": "knob"
+    },
+    {
+     "param": "NzRise Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "NzRise Length",
+     "widget": "knob"
+    },
+    {
+     "param": "NzRise Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "NzRise Level",
+     "widget": "knob"
+    },
+    {
+     "param": "TnRise Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "TnRise Length",
+     "widget": "knob"
+    },
+    {
+     "param": "TnRise Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "TnRise Level",
+     "widget": "knob"
+    },
+    {
+     "param": "Tens Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Tens Length",
+     "widget": "knob"
+    },
+    {
+     "param": "Tens Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Tens Level",
+     "widget": "knob"
+    }
+   ]
+  },
+  {
+   "name": "SOUNDS 3",
+   "controls": [
+    {
+     "param": "RvSwl Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "RvSwl Length",
+     "widget": "knob"
+    },
+    {
+     "param": "RvSwl Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "RvSwl Level",
+     "widget": "knob"
+    },
+    {
+     "param": "Downr Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Downr Length",
+     "widget": "knob"
+    },
+    {
+     "param": "Downr Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Downr Level",
+     "widget": "knob"
+    },
+    {
+     "param": "SubDrp Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "SubDrp Length",
+     "widget": "knob"
+    },
+    {
+     "param": "SubDrp Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "SubDrp Level",
+     "widget": "knob"
+    },
+    {
+     "param": "Whoosh Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Whoosh Length",
+     "widget": "knob"
+    },
+    {
+     "param": "Whoosh Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Whoosh Level",
+     "widget": "knob"
+    }
+   ]
+  },
+  {
+   "name": "SOUNDS 4",
+   "controls": [
+    {
+     "param": "Heart Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Heart Length",
+     "widget": "knob"
+    },
+    {
+     "param": "Heart Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Heart Level",
+     "widget": "knob"
+    },
+    {
+     "param": "Rmbl Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Rmbl Length",
+     "widget": "knob"
+    },
+    {
+     "param": "Rmbl Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Rmbl Level",
+     "widget": "knob"
+    },
+    {
+     "param": "Glass Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Glass Length",
+     "widget": "knob"
+    },
+    {
+     "param": "Glass Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Glass Level",
+     "widget": "knob"
+    },
+    {
+     "param": "Sting Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Sting Length",
+     "widget": "knob"
+    },
+    {
+     "param": "Sting Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Sting Level",
+     "widget": "knob"
+    }
+   ]
+  },
+  {
+   "name": "PAN",
+   "controls": [
+    {
+     "param": "Boom Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Hit Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Slam Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Metal Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Thud Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "NzRise Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "TnRise Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Tens Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "RvSwl Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Downr Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "SubDrp Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Whoosh Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Heart Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Rmbl Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Glass Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Sting Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    }
+   ]
+  },
+  {
+   "name": "MASTER",
+   "controls": [
+    {
+     "param": "Volume",
+     "widget": "fader"
+    },
+    {
+     "param": "Drive",
+     "widget": "knob"
+    },
+    {
+     "param": "Rev Mix",
+     "widget": "knob"
+    },
+    {
+     "param": "Rev Size",
+     "widget": "knob"
+    },
+    {
+     "param": "Rev Damp",
+     "widget": "knob"
+    },
+    {
+     "param": "Vel Sens",
+     "widget": "knob"
+    },
+    {
+     "param": "Variation",
+     "widget": "knob"
+    },
+    "empty"
+   ]
+  },
+  {
+   "name": "STYLE",
+   "controls": [
+    {
+     "param": "Style",
+     "widget": "slider",
+     "overlay": "menu"
+    },
+    {
+     "param": "Keys Sound",
+     "widget": "slider",
+     "overlay": "menu"
+    },
+    "empty",
+    "empty"
+   ]
+  }
+ ]
+}

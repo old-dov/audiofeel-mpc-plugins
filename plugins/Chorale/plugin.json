@@ -1,0 +1,17 @@
+{
+  "name": "Chorale",
+  "manufacturer": "AudioFeel",
+  "version": "1.0.0",
+  "format": "vst2",
+  "kind": "instrument",
+  "uid": "AjTR",
+  "numInputs": 0,
+  "numOutputs": 2,
+  "category": "Synth",
+  "file32": "VST/chorale-arm32.so",
+  "file64": "VST/chorale-arm64.so",
+  "description": "Chorale: formant choir with vowel morph, vowel motion and breath.",
+  "author": "AudioFeel",
+  "url": "",
+  "license": "MIT"
+}

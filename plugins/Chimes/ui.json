@@ -1,0 +1,78 @@
+{
+ "kit": "amber",
+ "pages": [
+  {
+   "name": "SOUND",
+   "controls": [
+    {
+     "param": "Instrument",
+     "widget": "slider",
+     "overlay": "menu"
+    },
+    {
+     "param": "Decay",
+     "widget": "knob"
+    },
+    {
+     "param": "Brightness",
+     "widget": "knob"
+    },
+    {
+     "param": "Hardness",
+     "widget": "knob"
+    },
+    {
+     "param": "Tremolo",
+     "widget": "knob"
+    },
+    {
+     "param": "Trem Rate",
+     "widget": "knob"
+    },
+    {
+     "param": "Spread",
+     "widget": "knob"
+    },
+    {
+     "param": "Release",
+     "widget": "knob"
+    }
+   ]
+  },
+  {
+   "name": "FX",
+   "controls": [
+    {
+     "param": "Bend Range",
+     "widget": "knob"
+    },
+    "empty",
+    "empty",
+    "empty",
+    {
+     "param": "Volume",
+     "widget": "fader"
+    },
+    {
+     "param": "Chorus Mix",
+     "widget": "knob"
+    },
+    "empty",
+    "empty",
+    {
+     "param": "Rev Mix",
+     "widget": "knob"
+    },
+    {
+     "param": "Rev Size",
+     "widget": "knob"
+    },
+    {
+     "param": "Rev Damp",
+     "widget": "knob"
+    },
+    "empty"
+   ]
+  }
+ ]
+}

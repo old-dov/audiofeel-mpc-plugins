@@ -1,0 +1,17 @@
+{
+  "name": "Warbox",
+  "manufacturer": "AudioFeel",
+  "version": "1.0.0",
+  "format": "vst2",
+  "kind": "instrument",
+  "uid": "AGHt",
+  "numInputs": 0,
+  "numOutputs": 2,
+  "category": "Synth",
+  "file32": "VST/warbox-arm32.so",
+  "file64": "VST/warbox-arm64.so",
+  "description": "Warbox: cinematic percussion, 16 synthesized sounds (taiko, war drums, timpani, anvil, gong...) with a big reverb.",
+  "author": "AudioFeel",
+  "url": "",
+  "license": "MIT"
+}

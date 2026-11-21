@@ -1,0 +1,17 @@
+{
+  "name": "Dronescape",
+  "manufacturer": "AudioFeel",
+  "version": "1.0.0",
+  "format": "vst2",
+  "kind": "instrument",
+  "uid": "A0yf",
+  "numInputs": 0,
+  "numOutputs": 2,
+  "category": "Synth",
+  "file32": "VST/dronescape-arm32.so",
+  "file64": "VST/dronescape-arm64.so",
+  "description": "Dronescape: dark drones and evolving textures, 6 voices with interval layer, drift and a moving filter.",
+  "author": "AudioFeel",
+  "url": "",
+  "license": "MIT"
+}

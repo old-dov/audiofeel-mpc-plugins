@@ -1,0 +1,105 @@
+{
+ "kit": "amber",
+ "pages": [
+  {
+   "name": "VOICE",
+   "controls": [
+    {
+     "param": "Section",
+     "widget": "slider",
+     "overlay": "menu"
+    },
+    {
+     "param": "Articulation",
+     "widget": "switch"
+    },
+    {
+     "param": "Brightness",
+     "widget": "knob"
+    },
+    {
+     "param": "Ensemble",
+     "widget": "knob"
+    },
+    {
+     "param": "Vibrato",
+     "widget": "knob"
+    },
+    {
+     "param": "Bow Noise",
+     "widget": "knob"
+    },
+    {
+     "param": "Low Layer",
+     "widget": "knob"
+    },
+    {
+     "param": "High Layer",
+     "widget": "knob"
+    }
+   ]
+  },
+  {
+   "name": "PLAY",
+   "controls": [
+    {
+     "param": "Dynamics",
+     "widget": "knob"
+    },
+    {
+     "param": "Mode",
+     "widget": "switch"
+    },
+    {
+     "param": "Glide",
+     "widget": "knob"
+    },
+    {
+     "param": "Humanize",
+     "widget": "knob"
+    },
+    {
+     "param": "Attack",
+     "widget": "knob"
+    },
+    {
+     "param": "Release",
+     "widget": "knob"
+    },
+    {
+     "param": "Bend Range",
+     "widget": "knob"
+    },
+    "empty"
+   ]
+  },
+  {
+   "name": "FX",
+   "controls": [
+    {
+     "param": "Volume",
+     "widget": "fader"
+    },
+    {
+     "param": "Chorus Mix",
+     "widget": "knob"
+    },
+    "empty",
+    "empty",
+    {
+     "param": "Rev Mix",
+     "widget": "knob"
+    },
+    {
+     "param": "Rev Size",
+     "widget": "knob"
+    },
+    {
+     "param": "Rev Damp",
+     "widget": "knob"
+    },
+    "empty"
+   ]
+  }
+ ]
+}

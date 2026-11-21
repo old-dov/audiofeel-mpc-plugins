@@ -1,0 +1,413 @@
+{
+ "kit": "amber",
+ "pages": [
+  {
+   "name": "SOUNDS 1",
+   "controls": [
+    {
+     "param": "TaikoH Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "TaikoH Length",
+     "widget": "knob"
+    },
+    {
+     "param": "TaikoH Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "TaikoH Level",
+     "widget": "knob"
+    },
+    {
+     "param": "TaikoL Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "TaikoL Length",
+     "widget": "knob"
+    },
+    {
+     "param": "TaikoL Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "TaikoL Level",
+     "widget": "knob"
+    },
+    {
+     "param": "War Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "War Length",
+     "widget": "knob"
+    },
+    {
+     "param": "War Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "War Level",
+     "widget": "knob"
+    },
+    {
+     "param": "Frame Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Frame Length",
+     "widget": "knob"
+    },
+    {
+     "param": "Frame Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Frame Level",
+     "widget": "knob"
+    }
+   ]
+  },
+  {
+   "name": "SOUNDS 2",
+   "controls": [
+    {
+     "param": "TimpH Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "TimpH Length",
+     "widget": "knob"
+    },
+    {
+     "param": "TimpH Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "TimpH Level",
+     "widget": "knob"
+    },
+    {
+     "param": "TimpL Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "TimpL Length",
+     "widget": "knob"
+    },
+    {
+     "param": "TimpL Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "TimpL Level",
+     "widget": "knob"
+    },
+    {
+     "param": "FlrTom Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "FlrTom Length",
+     "widget": "knob"
+    },
+    {
+     "param": "FlrTom Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "FlrTom Level",
+     "widget": "knob"
+    },
+    {
+     "param": "EpicK Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "EpicK Length",
+     "widget": "knob"
+    },
+    {
+     "param": "EpicK Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "EpicK Level",
+     "widget": "knob"
+    }
+   ]
+  },
+  {
+   "name": "SOUNDS 3",
+   "controls": [
+    {
+     "param": "Stomp Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Stomp Length",
+     "widget": "knob"
+    },
+    {
+     "param": "Stomp Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Stomp Level",
+     "widget": "knob"
+    },
+    {
+     "param": "Anvil Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Anvil Length",
+     "widget": "knob"
+    },
+    {
+     "param": "Anvil Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Anvil Level",
+     "widget": "knob"
+    },
+    {
+     "param": "Plate Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Plate Length",
+     "widget": "knob"
+    },
+    {
+     "param": "Plate Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Plate Level",
+     "widget": "knob"
+    },
+    {
+     "param": "Gong Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Gong Length",
+     "widget": "knob"
+    },
+    {
+     "param": "Gong Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Gong Level",
+     "widget": "knob"
+    }
+   ]
+  },
+  {
+   "name": "SOUNDS 4",
+   "controls": [
+    {
+     "param": "MilSnr Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "MilSnr Length",
+     "widget": "knob"
+    },
+    {
+     "param": "MilSnr Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "MilSnr Level",
+     "widget": "knob"
+    },
+    {
+     "param": "Rimsht Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Rimsht Length",
+     "widget": "knob"
+    },
+    {
+     "param": "Rimsht Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Rimsht Level",
+     "widget": "knob"
+    },
+    {
+     "param": "Crash Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Crash Length",
+     "widget": "knob"
+    },
+    {
+     "param": "Crash Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "Crash Level",
+     "widget": "knob"
+    },
+    {
+     "param": "TkRim Tune",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "TkRim Length",
+     "widget": "knob"
+    },
+    {
+     "param": "TkRim Tone",
+     "widget": "knob"
+    },
+    {
+     "param": "TkRim Level",
+     "widget": "knob"
+    }
+   ]
+  },
+  {
+   "name": "PAN",
+   "controls": [
+    {
+     "param": "TaikoH Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "TaikoL Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "War Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Frame Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "TimpH Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "TimpL Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "FlrTom Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "EpicK Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Stomp Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Anvil Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Plate Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Gong Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "MilSnr Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Rimsht Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "Crash Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    },
+    {
+     "param": "TkRim Pan",
+     "widget": "knob",
+     "polarity": "bipolar"
+    }
+   ]
+  },
+  {
+   "name": "MASTER",
+   "controls": [
+    {
+     "param": "Volume",
+     "widget": "fader"
+    },
+    {
+     "param": "Drive",
+     "widget": "knob"
+    },
+    {
+     "param": "Vel Sens",
+     "widget": "knob"
+    },
+    "empty",
+    {
+     "param": "Rev Mix",
+     "widget": "knob"
+    },
+    {
+     "param": "Rev Size",
+     "widget": "knob"
+    },
+    {
+     "param": "Rev Damp",
+     "widget": "knob"
+    },
+    "empty"
+   ]
+  }
+ ]
+}

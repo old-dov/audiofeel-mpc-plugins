@@ -1,0 +1,17 @@
+{
+  "name": "Chimes",
+  "manufacturer": "AudioFeel",
+  "version": "1.0.0",
+  "format": "vst2",
+  "kind": "instrument",
+  "uid": "ANlX",
+  "numInputs": 0,
+  "numOutputs": 2,
+  "category": "Synth",
+  "file32": "VST/chimes-arm32.so",
+  "file64": "VST/chimes-arm64.so",
+  "description": "Chimes: FM bells and tuned percussion (bell, music box, celesta, marimba, vibraphone...) with reverb.",
+  "author": "AudioFeel",
+  "url": "",
+  "license": "MIT"
+}

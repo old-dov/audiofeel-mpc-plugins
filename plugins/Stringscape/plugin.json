@@ -1,0 +1,17 @@
+{
+  "name": "Stringscape",
+  "manufacturer": "AudioFeel",
+  "version": "1.0.0",
+  "format": "vst2",
+  "kind": "instrument",
+  "uid": "ACzR",
+  "numInputs": 0,
+  "numOutputs": 2,
+  "category": "Synth",
+  "file32": "VST/stringscape-arm32.so",
+  "file64": "VST/stringscape-arm64.so",
+  "description": "Stringscape: synthesized strings (violins to basses) with articulations, ensemble, vibrato and a hall reverb.",
+  "author": "AudioFeel",
+  "url": "",
+  "license": "MIT"
+}

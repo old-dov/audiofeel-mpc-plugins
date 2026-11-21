@@ -1,6 +1,6 @@
 # AudioFeel MPC plugins
 
-Seven free instruments for Akai MPC standalone (and as VST2 on Windows), built with inMusic's open-source
+Fourteen free instruments for Akai MPC standalone (and as VST2 on Windows), built with inMusic's open-source
 [MPC Plugin SDK](https://github.com/inmusic-software/mpc-plugin-builder-sdk). All sounds are synthesized, no samples.
 
 | Plugin | What it is |
@@ -12,12 +12,21 @@ Seven free instruments for Akai MPC standalone (and as VST2 on Windows), built w
 | **Leadline** | Monophonic lead synth: unison stack of 1-7 oscillators, sub, 24 dB low-pass with drive, glide/legato, fading vibrato, PWM, ping-pong delay. 14 presets. |
 | **Padscape** | 8-voice pad synth: two detuned layers per voice, 24 dB low-pass moved by a slow LFO (different phase per voice), chorus, reverb. 14 presets. |
 | **Chordbox** | Chord synth: one key plays a chord, either a chosen chord type (24 types) or the chord of that degree in a key and scale, with inversions, voicings, strum, chorus and delay. 28 presets. |
+| **Impactor** | Cinematic impacts, risers and downers: 16 synthesized sounds on pads (notes 36-51) plus a pitched keyboard zone, six Styles (Trailer, Horror, Sci-Fi, Industrial, Organic, Glitch) that change what the sounds are made of, velocity, Variation, big reverb. 12 programs. |
+| **Warbox** | Cinematic percussion: taiko, war drums, timpani, anvil, plate, gong, military snare, rimshot, crash swell. 16 pads (notes 36-51), big reverb. 7 programs. |
+| **Dronescape** | Dark drones and evolving textures, 6 voices: sub, detuned saws, an interval layer (fifth, tritone, minor second...), tonal noise, slow-moving filter and drift. 11 programs. |
+| **Stringscape** | Synthesized strings, 8 voices: Violins to Basses, four articulations (legato, staccato, pizzicato, tremolo), bow noise, vibrato, dynamics on mod wheel/aftertouch, mono solo mode with glide. 13 programs. |
+| **Brassline** | Synthesized brass and braams, 6 voices: Trumpet, Horn, Trombone, Tuba, Braam; swell, growl, scoop, tongue, dynamics, mono solo mode. 13 programs. |
+| **Chorale** | Formant choir, 6 voices: vowel morph A-E-I-O-U, vowel motion, four singers, breath and onset, dynamics, solo mode with glide. 13 programs. |
+| **Chimes** | FM bells and tuned percussion, 8 voices: bell, music box, celesta, glockenspiel, marimba, tubular bell, vibraphone, kalimba. 11 programs. |
 
 Each plugin has its own README with parameters and limits (`plugins/<Name>/README.md`).
 
 ## Status, honestly
 
-- Tested on an **MPC One+ with MPC OS 3.10.1** (External Plugin Support on) and in **Ableton Live 12** on Windows (VST2).
+- The first seven were tested on an **MPC One+ with MPC OS 3.10.1** (External Plugin Support on) and in **Ableton Live 12** on Windows (VST2).
+- The seven cinema instruments (Impactor, Warbox, Dronescape, Stringscape, Brassline, Chorale, Chimes) were judged by ear in **Ableton Live 12** (VST2). The MPC builds are installed on an MPC One+ but have **not been auditioned on the MPC yet**.
+- The cinema instruments imitate orchestral and cinematic sounds by synthesis; they are not sample libraries. Strings, brass and choir are best for pads, swells and underscore, less for exposed solo lines.
 - Desktop builds have **no custom UI**: the host shows its own parameter list. The touch pages exist only on the MPC.
 - Sound quality was judged by ear on one setup; no other hosts or MPC models were tested.
 - Presets are starting points of my own making.
@@ -50,4 +59,4 @@ inMusic, Akai Professional or Korg. "VST" is a trademark of Steinberg Media Tech
 
 ---
 
-*FR : sept instruments gratuits pour MPC standalone (et VST2 Windows), 100 % synthèse. Voir les sections ci-dessus ; installation = dossier `VST2 Plugins` + Enhancements activé.*
+*FR : quatorze instruments gratuits pour MPC standalone (et VST2 Windows), 100 % synthèse. Voir les sections ci-dessus ; installation = dossier `VST2 Plugins` + Enhancements activé.*
