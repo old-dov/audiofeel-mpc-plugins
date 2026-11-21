@@ -25,7 +25,7 @@ Each plugin has its own README with parameters and limits (`plugins/<Name>/READM
 ## Status, honestly
 
 - The first seven were tested on an **MPC One+ with MPC OS 3.10.1** (External Plugin Support on) and in **Ableton Live 12** on Windows (VST2).
-- The seven cinema instruments (Impactor, Warbox, Dronescape, Stringscape, Brassline, Chorale, Chimes) were judged by ear in **Ableton Live 12** (VST2). The MPC builds are installed on an MPC One+ but have **not been auditioned on the MPC yet**.
+- The seven cinema instruments (Impactor, Warbox, Dronescape, Stringscape, Brassline, Chorale, Chimes) were judged by ear in **Ableton Live 12** (VST2) and tested on an **MPC One+ with MPC OS 3.10.1**, where they load and play.
 - The cinema instruments imitate orchestral and cinematic sounds by synthesis; they are not sample libraries. Strings, brass and choir are best for pads, swells and underscore, less for exposed solo lines.
 - Desktop builds have **no custom UI**: the host shows its own parameter list. The touch pages exist only on the MPC.
 - Sound quality was judged by ear on one setup; no other hosts or MPC models were tested.
