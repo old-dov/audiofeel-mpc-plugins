@@ -35,4 +35,4 @@ screenshot).
 
 ## Status
 
-Tried in Ableton Live 12 on Arpeggio; the fourteen plugins were opened and driven in the test host.
+All fourteen plugins were opened in Ableton Live 12 and driven in the test host; automation recording was not exercised on every plugin.
