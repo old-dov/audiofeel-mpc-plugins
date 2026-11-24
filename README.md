@@ -27,7 +27,7 @@ Each plugin has its own README with parameters and limits (`plugins/<Name>/READM
 - The first seven were tested on an **MPC One+ with MPC OS 3.10.1** (External Plugin Support on) and in **Ableton Live 12** on Windows (VST2).
 - The seven cinema instruments (Impactor, Warbox, Dronescape, Stringscape, Brassline, Chorale, Chimes) were judged by ear in **Ableton Live 12** (VST2) and tested on an **MPC One+ with MPC OS 3.10.1**, where they load and play.
 - The cinema instruments imitate orchestral and cinematic sounds by synthesis; they are not sample libraries. Strings, brass and choir are best for pads, swells and underscore, less for exposed solo lines.
-- Desktop builds have **no custom UI**: the host shows its own parameter list. The touch pages exist only on the MPC.
+- The **Windows VST2 in the release zip (1.3.0 and later) has its own window**, one accent colour per plugin, drawn from the same pages as the MPC screen. It was tried in Ableton Live 12 on Arpeggio and driven in a test host for all fourteen; the other thirteen were not opened in a real DAW yet. A VST2 you build yourself with `build.py --target desktop` stays generic (the host shows its own parameter list); `windows-editor/` adds the window. The touch pages exist on the MPC.
 - Sound quality was judged by ear on one setup; no other hosts or MPC models were tested.
 - Presets are starting points of my own making.
 
@@ -50,7 +50,7 @@ python tools/build.py plugins/Bassline --target desktop   # VST2 for this comput
 - **MPC**: copy the `AudioFeel - VST - <Name>` folder into a `VST2 Plugins` folder on a drive (USB stick), then on the MPC
   enable Preferences > Enhancements (Beta) > Enable Enhancements and External Plugin Support, and restart its app.
   Unsupported by Akai/inMusic: read the warning the MPC shows. (If a drive is mounted `noexec`, plugins may not load from it.)
-- **Windows**: copy the `desktop/<Name>` folder (the `.dll` plus `plugin.json`) into your VST2 folder and rescan.
+- **Windows**: unzip the release's `windows-vst2` zip (or copy the `desktop/<Name>` folder you built: the `.dll` plus `plugin.json`) into your VST2 folder and rescan. 64-bit hosts only.
 
 ## Licence and credits
 
