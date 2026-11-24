@@ -22,6 +22,20 @@ Fourteen free instruments for Akai MPC standalone (and as VST2 on Windows), buil
 
 Each plugin has its own README with parameters and limits (`plugins/<Name>/README.md`).
 
+## What the Windows VST2 windows look like
+
+One accent colour per plugin, drawn from the same pages as the MPC screen (see [`windows-editor/`](windows-editor/)). Screenshots taken in Ableton Live 12.
+
+<table>
+<tr><td align="center" width="50%"><b>Bassline</b><br><img src="screenshots/bassline.png" alt="The Bassline plugin window in Ableton Live 12" width="100%"></td><td align="center" width="50%"><b>Arpeggio</b><br><img src="screenshots/arpeggio.png" alt="The Arpeggio plugin window in Ableton Live 12" width="100%"></td></tr>
+<tr><td align="center" width="50%"><b>Digiwave</b><br><img src="screenshots/digiwave.png" alt="The Digiwave plugin window in Ableton Live 12" width="100%"></td><td align="center" width="50%"><b>Drumbox</b><br><img src="screenshots/drumbox.png" alt="The Drumbox plugin window in Ableton Live 12" width="100%"></td></tr>
+<tr><td align="center" width="50%"><b>Leadline</b><br><img src="screenshots/leadline.png" alt="The Leadline plugin window in Ableton Live 12" width="100%"></td><td align="center" width="50%"><b>Padscape</b><br><img src="screenshots/padscape.png" alt="The Padscape plugin window in Ableton Live 12" width="100%"></td></tr>
+<tr><td align="center" width="50%"><b>Chordbox</b><br><img src="screenshots/chordbox.png" alt="The Chordbox plugin window in Ableton Live 12" width="100%"></td><td align="center" width="50%"><b>Impactor</b><br><img src="screenshots/impactor.png" alt="The Impactor plugin window in Ableton Live 12" width="100%"></td></tr>
+<tr><td align="center" width="50%"><b>Warbox</b><br><img src="screenshots/warbox.png" alt="The Warbox plugin window in Ableton Live 12" width="100%"></td><td align="center" width="50%"><b>Dronescape</b><br><img src="screenshots/dronescape.png" alt="The Dronescape plugin window in Ableton Live 12" width="100%"></td></tr>
+<tr><td align="center" width="50%"><b>Stringscape</b><br><img src="screenshots/stringscape.png" alt="The Stringscape plugin window in Ableton Live 12" width="100%"></td><td align="center" width="50%"><b>Brassline</b><br><img src="screenshots/brassline.png" alt="The Brassline plugin window in Ableton Live 12" width="100%"></td></tr>
+<tr><td align="center" width="50%"><b>Chorale</b><br><img src="screenshots/chorale.png" alt="The Chorale plugin window in Ableton Live 12" width="100%"></td><td align="center" width="50%"><b>Chimes</b><br><img src="screenshots/chimes.png" alt="The Chimes plugin window in Ableton Live 12" width="100%"></td></tr>
+</table>
+
 ## Status, honestly
 
 - The first seven were tested on an **MPC One+ with MPC OS 3.10.1** (External Plugin Support on) and in **Ableton Live 12** on Windows (VST2).
